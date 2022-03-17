@@ -1,0 +1,12 @@
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\bin\Debug\CRUD_Balances.exe.config
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\bin\Debug\CRUD_Balances.exe
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\bin\Debug\CRUD_Balances.pdb
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.BalanceDetails.resources
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.Main.resources
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.Properties.Resources.resources
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.exe
+C:\Users\carlo\Desktop\Programacion II\Asignaciones\Trabajo final\CRUD_Balances\obj\Debug\CRUD_Balances.pdb
